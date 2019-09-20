@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<plugin>
+  <name>Slack</name>
+  <version>1</version>
+  <minimumframeworkversion>1</minimumframeworkversion>
+  <production>true</production>
+  <author>Lukas Eßmann</author>
+  <externalmanifest>https://a.uguu.se/GkGhfXIrdXZO_PluginManifest.xml</externalmanifest>
+</plugin>
