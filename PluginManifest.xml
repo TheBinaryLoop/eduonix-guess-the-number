@@ -5,5 +5,5 @@
   <minimumframeworkversion>1</minimumframeworkversion>
   <production>true</production>
   <author>Lukas Eßmann</author>
-  <externalmanifest>https://a.uguu.se/GkGhfXIrdXZO_PluginManifest.xml</externalmanifest>
+  <externalmanifest>https://raw.githubusercontent.com/TheBinaryLoop/eduonix-guess-the-number/master/PluginManifest.xml</externalmanifest>
 </plugin>
