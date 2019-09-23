@@ -2,8 +2,9 @@
 <plugin>
   <name>WackyMessenger</name>
   <version>1</version>
-  <minimumframeworkversion>1</minimumframeworkversion>
+  <minimumframeworkversion>49</minimumframeworkversion>
   <production>false</production>
+  <changelog>http://disa-im.github.io/DisaOpenSource/telegram/changelog.html</changelog>
   <author>Lukas Eßmann</author>
   <externalmanifest>https://raw.githubusercontent.com/TheBinaryLoop/eduonix-guess-the-number/master/WackyMessenger.xml</externalmanifest>
 </plugin>
