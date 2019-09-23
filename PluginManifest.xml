@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<plugin>
-  <name>Slack</name>
-  <version>1</version>
-  <minimumframeworkversion>1</minimumframeworkversion>
-  <production>true</production>
-  <author>Lukas Eßmann</author>
-  <externalmanifest>https://raw.githubusercontent.com/TheBinaryLoop/eduonix-guess-the-number/master/PluginManifest.xml</externalmanifest>
-</plugin>
